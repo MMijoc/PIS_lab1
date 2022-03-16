@@ -6,5 +6,7 @@ namespace PIS_lab1.ConsoleApp
 {
     class NewClass
     {
+        void praznaMetoda(){
+        }
     }
 }
