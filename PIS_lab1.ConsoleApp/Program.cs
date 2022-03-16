@@ -6,7 +6,7 @@ namespace PIS_lab1.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");//komentar
+            Console.WriteLine("Hello World!");/#komentar
         }
     }
 }
