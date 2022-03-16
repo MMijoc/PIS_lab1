@@ -6,5 +6,9 @@ namespace PIS_lab1.ConsoleApp
 {
     class NewClass
     {
+        public void EmptyMethod()
+        {
+
+        }
     }
 }
